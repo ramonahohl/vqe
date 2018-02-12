@@ -1,5 +1,5 @@
 # vqe
-## A variational quantum eigensolver
+  # A variational quantum eigensolver
 
 In the paper "Scalable quantum simulation of molecular energies" [1] they report that their VQE experiment achieves chemical accuracy and is the first scalable quantum simulation of molecular energies performed on universal quantum hardware.
 
@@ -7,7 +7,7 @@ This is the basic code to simulate molecular hydrogen implemented as described i
 
 The resulting plot does not look like a pretty potential curve, because most likely the coefficients from the paper used for the vqe are wrong:
 
-
+![alt text](https://github.com/ramonahohl/vqe/blob/master/energyVQE.png)
 
 
 ## Prerequisits
