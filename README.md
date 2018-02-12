@@ -8,6 +8,7 @@ The resulting plot does not look like a pretty potential curve, because most lik
 
 ![alt text](https://github.com/ramonahohl/vqe/blob/master/energyVQE.png)
 
+![useful image](https://github.com/ramonahohl/vqe/blob/master/energyVQE.png)
 
 ## Prerequisits
 install following libraries: scipy, (matplotlib), projectq
