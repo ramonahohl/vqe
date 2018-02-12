@@ -6,7 +6,7 @@ This is the basic code to simulate molecular hydrogen implemented as described i
 
 The resulting plot does not look like a pretty potential curve, because most likely the coefficients from the paper used for the vqe are wrong:
 
-![useful image](https://github.com/ramonahohl/vqe/blob/master/energyVQE.png)
+![vqe plot](https://github.com/ramonahohl/vqe/blob/master/energyVQE.png)
 
 
 ## Prerequisits
