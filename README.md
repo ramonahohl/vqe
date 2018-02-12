@@ -6,6 +6,8 @@ implemented as described in paper "Scalable quantum simulation of molecular ener
 (Most likely the coefficients from the paper used for the vqe are not correct.)
 
 
+install following libraries: scipy, (matplotlib), projectq
+
 
 [1]
 P. J. J. O'Malley, R. Babbush, I. D. Kivlichan, J. Romero, J. R. McClean, R. Barends, J. Kelly,
