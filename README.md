@@ -1,4 +1,4 @@
-#Variational quantum eigensolver
+# Variational quantum eigensolver
 
 In the paper "Scalable quantum simulation of molecular energies" [1] they report that their VQE experiment achieves chemical accuracy and is the first scalable quantum simulation of molecular energies performed on universal quantum hardware.
 
